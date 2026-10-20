@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 公開URLが決まったら次の行のコメントを外して書き換える
+# Sitemap: https://公開URL/sitemap.xml
